@@ -1,0 +1,14 @@
+
+In empty directory:  jekyll new --skip-bundle .
+
+Update Gemfile
+- Comment out "gem "jekyll""
+- Add gem "github-pages", "~>231", group: :jekyll_plugins
+- version found from:  https://pages.github.com/versions/
+
+update the metadata in "_config.yml" and add content
+Remove "_posts" directory
+
+Docs:
+- https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll
+- https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll
