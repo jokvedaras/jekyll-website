@@ -6,7 +6,7 @@ layout: page
 order: 1
 ---
 
-<img src="/assets/stockvault-data-loss-concept-open-supplicating-hand-over-binary-code281547.jpg" alt="drawing" height="250" width="800"/>
+<img src="{{ '/assets/stockvault-data-loss-concept-open-supplicating-hand-over-binary-code281547.jpg' | relative_url }}" alt="hand-over-binary-code" height="250" width="800"/>
 
 <br>
 Wether you need an extra set of hands for some items in the backlog or a complete program developed, we are here to help!

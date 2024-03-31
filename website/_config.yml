@@ -34,9 +34,10 @@ tagline: ""
 description: >- # this means to ignore newlines until "baseurl:"
   Providing consulting services in the information technology and cybersecurity domain since 2024
 
-# TODO - Set url to https://<organization>.github.io
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+# Set url to https://<organization>.github.io
+url: "https://jokvedaras.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+# Set baseurl to repository name in github
+baseurl: "/jekyll-website" # the subpath of your site, e.g. /blog
 
 # Used from github-pages gem if folder is not a .git repo
 #repository: jokvedaras/jekyll-website
